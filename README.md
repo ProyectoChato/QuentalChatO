@@ -1,34 +1,29 @@
-# Proyecto ChatO
+![GNU GPLv3](logoChatoPeque.png "GNU GPLv3")
 
 ## Índice
 1. ¿Qué es ChatO?
-2. ¿Cómo lo hemos hecho?
-3. ¿Qué hemos aprendido?
-4. Quiénes somos y contacto
+2. Descripción
+3. Objetivo
+4. Quiénes somos
 5. Agradecimientos
-
+6. Licencia
 
 ##1. ¿Qué es ChatO?
 
-ChatO es un chat de soporte técnico creado dentro del [Talentum Empleo](http://talentumempleo.com/ "Sitio web de Talentum Empleo").  
-Los objetivos son:  
-1. Crear una herramienta de soporte que facilite el trabajo a los desarrollos internos realizados en cliente.  
-2. Desarrollar un componente en Liferay bajo acceso http desde cualquier lugar.  
-3. Centralizar las dudas en un único [SPOC (Single Point of Contact)](https://es.wikipedia.org/wiki/Single_Point_of_Contact).  
+Nuestro proyecto consiste en la creación de un Chat para Quental mediante el cual se podrán resolver dudas técnicas a sus clientes, en concreto Cruz Roja y Telefónica. El Chat se ha desarrollado siguiendo las especificaciones del cliente y mediante el uso de diversas tecnologías. 
+Para llevar a cabo el diseño del chat, hemos utilizado Liferay que es un portal de gestión de contenidos de código abierto escrito en Java. Un portal se define generalmente como una plataforma de software para construir aplicaciones y sitios web. Las plataformas de portal facilitan a los usuarios la construcción de páginas web y sitios web mediante el ensamblaje de Portlets en una página de portal. 
+Hemos creado dos Portlets para desarrollar todas las funcionalidades del proyecto, uno para el lado cliente y otro para el lado Quental.  
 
 
-##2. ¿Cómo lo hemos hecho?
+##2. Descripción
 
-Para crear ChatO hemos usado las tecnologías que nos ofrece [Liferay](https://www.liferay.com/es/), que es un una aplicación web basada en 
-[Java EE](http://www.oracle.com/technetwork/java/javaee/overview/index.html).
+Dicho chat permitirá poner en contacto y en tiempo real a un equipo de soporte con un técnico del lado del cliente, que será el que expondrá sus dudas. 
 
-##3. ¿Qué hemos aprendido?
+##3. Objetivo
 
-+ Poner en práctica lo aprendido en las clases teóricas de HTML5/CSS3, MySQL, Java SE, Java EE 
-+ Poner en práctica lo aprendido en las clases teóricas de metodologías ágiles
-+ Integración del código de los diferentes miembros del equipo
+Crear una herramienta que facilite el trabajo del cliente en sus desarrollos internos utilizando la tecnología Liferay, es decir que será un SPOC (Single Point Of Contact).
 
-##4. Quiénes somos y contacto
+##4. Quiénes somos
 
 + [Guillermo Pastor Peña](https://es.linkedin.com/in/guillermopastorpena "linkedin de Guillermo") | [@guilermo_org](https://twitter.com/guillermo_org) | <guillermopaspe@gmail.com>
 + [Fernando Castro Martín](https://es.linkedin.com/in/fernandocastromartin "linkedin de Fernando") | [@fercm89](https://twitter.com/fercm89) | <fercm89@gmail.com>  
@@ -54,5 +49,14 @@ Queremos agradecer la ayuda recibida para conseguir que este proyecto llegue a b
 + [MSL Formación](https://www.mslformacion.es/ "Sitio web de MSL Formacion") y [Oficenter](http://www.oficenter.es/ "Sitio web de Oficenter")
 
 #MUCHAS GRACIAS A TODOS
+
+##5. Licencia
+
+Esta obra se distribulle bajo licencia GNU GPLv3
+
+![GNU GPLv3](gnugpl3.png "GNU GPLv3")
+
+
+
 
 
