@@ -46,7 +46,7 @@ Queremos agradecer la ayuda recibida para conseguir que este proyecto llegue a b
 + [Thinking with you](http://thinkingwithyou.com/): [Israel Alcazar](https://twitter.com/ialcazar "") y [Florentino](https://twitter.com/worldintino ""),
 + [h4ckademy](http://www.h4ckademy.com/): [Israel Gutiérrez](https://twitter.com/gootyfer ""),
 + [Quental](http://www.quental.com/): [Ángel](https://es.linkedin.com/in/ángel-gárgoles-rodríguez-85b46726 ""), [Álvaro](https://twitter.com/AButragueno ""), [Mirian](https://es.linkedin.com/in/mirian-arrabal-trigueros-3023166b ""), [Jorge](https://es.linkedin.com/in/jorge-rodriguez-de-lazaro-62698b40 ""),
-+ [MSL Formación](https://www.mslformacion.es/ "Sitio web de MSL Formacion") y [Oficenter](http://www.oficenter.es/ "Sitio web de Oficenter")
+
 
 #MUCHAS GRACIAS A TODOS
 
